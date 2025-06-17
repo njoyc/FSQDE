@@ -1,0 +1,6 @@
+streamlit
+numpy
+pillow
+cryptography
+pyswarm
+scipy
